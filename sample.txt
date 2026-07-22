@@ -1,1 +1,2 @@
 This is my first Git file.
+This is the second line.
